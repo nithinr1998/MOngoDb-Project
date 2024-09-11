@@ -1,0 +1,12 @@
+body {
+    background-image: 
+    url("car.png");
+
+}
+form{
+    background-color: #ffff;
+    width: fit-content;
+    margin: auto;
+    border-radius: 5px;
+    border-bottom: 50px;
+}
